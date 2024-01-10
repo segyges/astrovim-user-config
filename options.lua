@@ -8,7 +8,7 @@ return {
     signcolumn = "auto", -- sets vim.opt.signcolumn to auto
     wrap = true, -- sets vim.opt.wrap
     expandtab = false,
-    listchars = "eol:¬,tab:→ ,space:·",
+    listchars = "eol:$,tab:→ ,space:·,nbsp:⊞",
     list = true,
   },
   g = {
